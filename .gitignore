@@ -1,0 +1,4 @@
+db_export/*
+venv
+*.toml
+*.png

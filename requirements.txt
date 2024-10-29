@@ -1,0 +1,6 @@
+drawarrow==0.0.3
+highlight_text==0.2
+matplotlib==3.8.2
+numpy==1.25.0
+pandas==2.0.3
+seaborn==0.13.2
